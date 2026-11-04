@@ -1,0 +1,9 @@
+# Copies de travail et sorties Claude
+Claude outputs/
+*.bak
+*.tmp
+
+# Systeme
+Thumbs.db
+desktop.ini
+.DS_Store
